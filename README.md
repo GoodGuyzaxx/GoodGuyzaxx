@@ -4,7 +4,7 @@ Hi 👋 My name is Dewantara
 Mobile Android Developer
 ------------------------
 
-I've been learning code for 3 years and am new in mobile android developer
+I've been learning code for 2 years and am new in mobile android developer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [drawww111@gmail.com](mailto:drawww111@gmail.com)
