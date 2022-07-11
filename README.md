@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with WEB3 Techology.<br>🌱 I’m currently learning about Mobile Develompent.<br>💬 Ask me about Tech Stuff.
+🌱 I’m currently learning about Mobile Development.<br>🤝 I’m looking for help with WEB3 Techology.<br>💬 Ask me about Tech Stuff.
 
 
 ## 🌐 Socials:
