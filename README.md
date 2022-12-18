@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about Mobile Development.<br>🤝 I’m looking for help with WEB3 Techology.<br>💬 Ask me about Tech Stuff.
+🌱 I’m currently learning about Mobile Development.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodGuyzaxx&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
