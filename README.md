@@ -5,8 +5,8 @@ Ordinary tech enthusiast
 ------------------------
 
 * 🌍  I'm based in Indonesia
-* 🚀  I'm currently working on Kamus Gen-Z
-* 🧠  I'm learning Android,IoT,Tensor Flow and Database
+* 🚀  I'm currently working on Kamus Gen-Z 
+* 🧠  I'm learning Android,IoT,Machine Learning and Database
 
 <a href="https://www.github.com/goodguyzaxx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/goodguyzaxx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
