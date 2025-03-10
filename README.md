@@ -5,7 +5,7 @@ Ordinary tech enthusiast
 ------------------------
 
 * 🌍  I'm based in Indonesia
-* 🚀  I'm currently working on Kamus Gen-Z 
+* 🚀  I'm currently working on HarvestFlow
 * 🧠  I'm learning Android,IoT,Machine Learning and Database
 
 <a href="https://www.github.com/goodguyzaxx" target="_blank" rel="noreferrer"><img
