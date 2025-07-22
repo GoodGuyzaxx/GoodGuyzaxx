@@ -6,7 +6,7 @@ Ordinary tech enthusiast
 
 * 🌍  I'm based in Indonesia
 * 🚀  I'm currently working on HarvestFlow
-* 🧠  I'm learning Android,IoT,Machine Learning and Database
+* 🧠  I'm learning Mobile Development,IoT,Machine Learning
 
 <a href="https://www.github.com/goodguyzaxx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/goodguyzaxx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
